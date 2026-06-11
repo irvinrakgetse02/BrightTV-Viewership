@@ -35,7 +35,7 @@ Our regional analysis shows heavily centralized distribution, highlighting where
 
 ### 2. Generational Audience Segmentation
 The platform’s core engine is conclusively driven by mobile and upwardly mobile digital natives:
-* **Young Adults (18–34):** **55.3%** (`2,424` subscribers) — The dominant user volume.
+* **Young Adults (20–34):** **55.3%** (`2,424` subscribers) — The dominant user volume.
 * **Mid-Age (35–49):** **33.6%** (`1,474` subscribers) — Stable, premium tier.
 * **Teens (13–17):** **8.6%** (`377` subscribers) — Emerging target base.
 * **Seniors (50+):** **2.5%** (`111` subscribers) — Niche consumption segment.
@@ -62,4 +62,4 @@ When cross-referencing gender identify against ethnic demographics, clear consum
 ## 🛠️ Tech Stack & Skills Utilized
 * **Data Engineering:** SQL, Databricks, Power Query (CSV parsing, handling encoding issues, eliminating blank/null variations, distinct counting logic).
 * **Business Intelligence:** Microsoft Excel (Advanced Pivot Tables, clean custom layouts, calculated fields, multi-chart synchronization layout).
-* **Executive Presentation:** Canva Graphics, UI Dashboard Grid Design.
+* **Executive Presentation:** Powerpoint.
